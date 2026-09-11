@@ -5,6 +5,8 @@
 [![Email](https://img.shields.io/badge/-as.pornima%40gmail.com-333?style=flat-square&logo=gmail&logoColor=white)](mailto:as.pornima@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poornimaas)
 
+Open to relocation anywhere in the U.S.
+
 M.S. Analytics, Saint Louis University (Dec 2026). 4 years prior in IT at Wipro, working on enterprise CRM systems and cloud infrastructure before moving into analytics. Seeking full-time roles starting January 2027.
 
 ---
@@ -27,31 +29,29 @@ M.S. Analytics, Saint Louis University (Dec 2026). 4 years prior in IT at Wipro,
 Built an end-to-end analytics dashboard for insurance claims data: 6-month cost forecasting (linear regression), automated provider risk scoring, and statistical anomaly detection (2-sigma threshold), with AI-generated executive summaries explaining each flagged anomaly.
 
 `Python` · `Streamlit` · `Plotly` · `Pandas` · `Scikit-learn` · `Qwen 2 / Ollama`
-**[View repo →](#)**
+**[View repo →](https://github.com/poornima1508/ClaimsPulse)**
 
 ### Product Performance Analysis — Olist E-commerce Dataset
 Analyzed 100k+ Brazilian e-commerce orders end-to-end: SQL for data modeling and aggregation, Python for cleaning and analysis, Power BI for the final stakeholder-facing dashboard.
 
 `SQL (SQLite)` · `Python` · `Power BI`
-**[View repo →](#)**
+**[View repo →](https://github.com/poornima1508/olist-product-performance-analysis)**
 
 ### ResearchGPT — AI Research Assistant
 Built a retrieval and summarization tool for academic papers using Delta Lake for storage, vector search for semantic retrieval, and agent-based orchestration to synthesize answers across sources.
 
 `PySpark` · `Delta Lake` · `Vector Search`
-**[View repo →](#)**
+**[View repo →](https://github.com/poornima1508/ResearchGPT)**
 
 ### Weather Intelligence Platform
 Built a semantic search layer over live NWS weather feeds using vector embeddings, enabling natural-language queries against real-time conditions data.
 
 `Vector Embeddings` · `Real-time Data Pipelines`
-**[View repo →](#)**
 
 ### Ticket Management System
 Built a full-stack support ticketing application, including schema design and backend logic.
 
 `Databricks Apps` · `PostgreSQL`
-**[View repo →](#)**
 
 ---
 
@@ -78,6 +78,3 @@ Built a full-stack support ticketing application, including schema design and ba
 **R.M.K. College of Engineering and Technology** — B.E. Computer Science (2016 – 2020)
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api?username=poornima1508&show_icons=true&theme=default&hide_title=true&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=poornima1508&hide_border=true" width="48%" />
