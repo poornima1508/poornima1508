@@ -9,34 +9,46 @@ M.S. Analytics, Saint Louis University (Dec 2026). 4 years prior in IT at Wipro,
 ## Skills
 
 **Languages & Query:** SQL, Python
+
 **BI & Visualization:** Power BI, Tableau, Excel
+
 **Data & Cloud:** PySpark, Databricks, Delta Lake, AWS (EC2, S3), Terraform
+
 **Applied ML/AI:** Scikit-learn, vector search, LLM agents (Qwen/Ollama)
+
 **Other:** Siebel CRM, Jira, Splunk
 
 ## Projects
 
 ### ClaimsPulse — Healthcare Claims Analytics Dashboard
 Built an end-to-end analytics dashboard for insurance claims data: 6-month cost forecasting (linear regression), automated provider risk scoring, and statistical anomaly detection (2-sigma threshold), with AI-generated executive summaries explaining each flagged anomaly.
+
 `Python` `Streamlit` `Plotly` `Pandas` `Scikit-learn` `Qwen 2 / Ollama`
+
 https://github.com/poornima1508/ClaimsPulse
 
 ### Product Performance Analysis — Olist E-commerce Dataset
 Analyzed 100k+ Brazilian e-commerce orders end-to-end: SQL for data modeling and aggregation, Python for cleaning and analysis, Power BI for the final stakeholder-facing dashboard.
+
 `SQL (SQLite)` `Python` `Power BI`
+
 https://github.com/poornima1508/olist-product-performance-analysis
 
 ### ResearchGPT — AI Research Assistant
 Built a retrieval and summarization tool for academic papers using Delta Lake for storage, vector search for semantic retrieval, and agent-based orchestration to synthesize answers across sources.
+
 `PySpark` `Delta Lake` `Vector Search`
+
 https://github.com/poornima1508/ResearchGPT
 
 ### Weather Intelligence Platform
 Built a semantic search layer over live NWS weather feeds using vector embeddings, enabling natural-language queries against real-time conditions data.
+
 `Vector Embeddings` `Real-time Data Pipelines`
 
 ### Ticket Management System
 Built a full-stack support ticketing application, including schema design and backend logic.
+
 `Databricks Apps` `PostgreSQL`
 
 ## Experience
