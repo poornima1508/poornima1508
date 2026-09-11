@@ -1,6 +1,7 @@
 # Poornima Anamaneni Sayeeswaran
 
 **Data Analytics | Business Intelligence | Business Analysis**
+
 United States · as.pornima@gmail.com · [LinkedIn](https://www.linkedin.com/in/poornimaas)
 
 M.S. Analytics, Saint Louis University (Dec 2026). 4 years prior in IT at Wipro, working on enterprise CRM systems and cloud infrastructure before moving into analytics. Seeking full-time roles starting January 2027.
@@ -51,9 +52,10 @@ Built a full-stack support ticketing application, including schema design and ba
 - Maintained the department's full asset/inventory database, reducing record-discrepancy incidents through standardized audit checks
 
 **Excelerate** — Project Manager (Feb – Mar 2025)
-- Analyzed advertising campaign performance in Excel; built dashboards translating metrics into actionable recommendations
+- Analyzed advertising campaign performance in Excel, built dashboards translating metrics into actionable recommendations
 
 ## Education
 
 **Saint Louis University** — M.S. Analytics (Jan 2025 – Dec 2026)
+
 **R.M.K. College of Engineering and Technology** — B.E. Computer Science (2016 – 2020)
