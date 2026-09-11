@@ -1,6 +1,7 @@
 # Poornima Anamaneni Sayeeswaran
 
 **Data Analytics | Business Intelligence | Business Analysis**
+St. Louis, MO · Open to relocation anywhere in the U.S.
 
 [![Email](https://img.shields.io/badge/-as.pornima%40gmail.com-333?style=flat-square&logo=gmail&logoColor=white)](mailto:as.pornima@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poornimaas)
