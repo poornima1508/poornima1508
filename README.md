@@ -1,12 +1,11 @@
 # Poornima Anamaneni Sayeeswaran
 
 **Data Analytics | Business Intelligence | Business Analysis**
+
 St. Louis, MO · Open to relocation anywhere in the U.S.
 
 [![Email](https://img.shields.io/badge/-as.pornima%40gmail.com-333?style=flat-square&logo=gmail&logoColor=white)](mailto:as.pornima@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poornimaas)
-
-Open to relocation anywhere in the U.S.
 
 M.S. Analytics, Saint Louis University (Dec 2026). 4 years prior in IT at Wipro, working on enterprise CRM systems and cloud infrastructure before moving into analytics. Seeking full-time roles starting January 2027.
 
