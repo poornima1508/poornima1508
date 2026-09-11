@@ -7,6 +7,7 @@ United States · as.pornima@gmail.com · [LinkedIn](https://www.linkedin.com/in/
 M.S. Analytics, Saint Louis University (Dec 2026). 4 years prior in IT at Wipro, working on enterprise CRM systems and cloud infrastructure before moving into analytics. Seeking full-time roles starting January 2027.
 
 ## Skills
+<img src="https://skillicons.dev/icons?i=python,postgresql,tableau,aws,git&theme=light" />
 
 **Languages & Query:** SQL, Python
 
